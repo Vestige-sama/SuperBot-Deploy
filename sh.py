@@ -1,6 +1,6 @@
 import os 
 import subprocess
-os.system("git clone https://github.com/MadBoy-X/SuperBot superbot")
+os.system("git clone https://github.com/Vestige-sama/SuperBot superbot")
 os.chdir("superbot")
 os.system("python -m pip install --upgrade pip")
 os.system("pip install aria2p")
